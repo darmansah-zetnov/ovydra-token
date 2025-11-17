@@ -4,7 +4,7 @@ OVYDRA (OVR) is a fixed supply ERC-20 token deployed on the **Polygon** network 
 
 ---
 
-## 1. Token Overview
+### 1. Token Overview
 
 - **Name:** OVYDRA  
 - **Symbol:** OVR  
@@ -21,7 +21,7 @@ https://polygonscan.com/address/0xf9C72dcc23962524dC6D50D07d6333D710425E81#code
 
 ---
 
-## 2. Tokenomics
+### 2. Tokenomics
 
 Total supply: **200,000,000 OVR**
 
@@ -38,7 +38,7 @@ All tokens were minted once to the deployer wallet and then distributed on-chain
 
 ---
 
-## 3. Fee Model
+### 3. Fee Model
 
 OVYDRA uses a simple transfer fee mechanism:
 
@@ -55,7 +55,7 @@ There is **no** blacklist, pause or hidden control that can block normal user tr
 
 ---
 
-## 4. Contract & Stack
+### 4. Contract & Stack
 
 The main contract is `OvydraToken.sol`, built using:
 
@@ -71,7 +71,7 @@ Key files in this repository:
 
 ---
 
-## 5. Development Notes
+### 5. Development Notes
 
 To work with this project locally:
 
@@ -89,8 +89,8 @@ POLYGON_RPC_URL Polygon RPC endpoint
 FEE_RECIPIENT treasury / fee recipient wallet
 INITIAL_FEE_BPS initial fee in basis points (e.g. 100 = 1%)
 ```
- 
-6. Contact & Links
+
+### 6. Contact & Links
 
 GitHub: https://github.com/darmansah-zetnov/ovydra-token
 
