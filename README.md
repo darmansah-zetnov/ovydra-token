@@ -123,7 +123,7 @@ The project is currently led by a solo founder and is looking for **early techni
 
 Because the budget is very limited at this stage, **compensation will be primarily in OVYDRA tokens** and/or future upside, not traditional salaries.
 
-### What you can get as an early team member
+#### What you can get as an early team member
 
 - **Meaningful token allocation** tied to contribution and commitment  
 - **“Founding contributor”** status in documentation and future team pages  
@@ -148,7 +148,7 @@ Please include:
 
 This repository uses Hardhat (TypeScript) for development and deployment.
 
-### Commands
+#### Commands
 
 ```bash
 # install dependencies
