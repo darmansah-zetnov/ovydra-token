@@ -175,4 +175,17 @@ https://github.com/darmansah-zetnov/ovydra-token
 
 Ecosystem: Zetnov/Ovydra Protocol
 
-Email (temporary official contact): zetnovtechnologies@gmail.com
+---
+
+### 10. Thank You & Feedback
+
+Thank you for taking the time to read about OVYDRA (OVR) all the way to the end.
+
+If you have feedback, ideas or constructive criticism about the project, we would genuinely appreciate hearing from you. Every perspective helps us improve the protocol and build something more meaningful over the long term.
+
+You can share your thoughts with us via:
+
+- **Email:** `zetnovtechnologies@gmail.com`  
+  Subject: `[OVYDRA] Feedback/Suggestions`
+
+We truly value your interest in OVYDRA and appreciate anyone who is willing to engage, review or support this project in its early stages.
