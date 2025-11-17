@@ -127,7 +127,7 @@ Because the budget is very limited at this stage, **compensation will be primari
 
 - **Meaningful token allocation** tied to contribution and commitment  
 - **“Founding contributor”** status in documentation and future team pages  
-- Real-world portfolio: smart contracts, dApps and protocol work on Polygon  
+- Real world portfolio: smart contracts, dApps and protocol work on Polygon  
 - Direct influence over product direction and roadmap  
 - Long-term upside *if* the project succeeds (with all the associated risk)
 
