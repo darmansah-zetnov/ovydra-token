@@ -116,7 +116,7 @@ If you are an early supporter, builder or potential strategic partner, you are e
 
 The project is currently led by a solo founder and is looking for **early technical collaborators**, especially:
 
-- Frontend/Web developers (Next.js / React)  
+- Frontend/Web developers (Next.js/React)  
 - Smart contract  
 - Designers (UI/UX, branding)  
 - Community & documentation contributors
