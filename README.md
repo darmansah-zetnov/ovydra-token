@@ -4,7 +4,6 @@ OVYDRA (OVR) is a fixed supply ERC-20 token deployed on the Polygon network. The
 
 > **Status:** Active development early stage, experimental.
 
----
 
 ### 1. Token Overview
 
@@ -53,8 +52,8 @@ The OVYDRA token includes a **configurable transfer fee** with strict limits:
 Additional safety notes:
 
 - Fee is **disabled for mints and burns**  
-- The owner (deployer) and the fee recipient are **fee-exempt** to allow internal operations and distribution  
-- There is **no mint function** – supply cannot increase
+- The owner (deployer) and the fee recipient are **fee exempt** to allow internal operations and distribution  
+- There is **no mint function** supply cannot increase
 
 ---
 
@@ -117,7 +116,7 @@ If you are an early supporter, builder or potential strategic partner, you are e
 
 The project is currently led by a solo founder and is looking for **early technical collaborators**, especially:
 
-- Frontend / Web developers (Next.js / React)  
+- Frontend/Web developers (Next.js / React)  
 - Smart contract  
 - Designers (UI/UX, branding)  
 - Community & documentation contributors
