@@ -1,4 +1,4 @@
-# OVYDRA (OVR) – Polygon ERC-20 Token
+# OVYDRA (OVR) Polygon ERC-20 Token
 
 OVYDRA (OVR) is a fixed supply ERC-20 token deployed on the **Polygon** network and developed under the **Zetnov** Ecosystem. The token is designed as a clean, transparent asset that can be used for future products around Property, DeFi and Protocol Incentives.
 
