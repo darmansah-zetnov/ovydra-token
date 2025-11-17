@@ -175,9 +175,7 @@ https://github.com/darmansah-zetnov/ovydra-token
 
 Ecosystem: Zetnov/Ovydra Protocol
 
----
-
-### 10. Thank You & Feedback
+#### Thank You & Feedback
 
 Thank you for taking the time to read about OVYDRA (OVR) all the way to the end.
 
