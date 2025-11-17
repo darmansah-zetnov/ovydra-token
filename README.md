@@ -161,8 +161,11 @@ npx hardhat compile
 Deployment uses environment variables (.env file, not committed to Git):
 
 PRIVATE_KEY deployer wallet private key
+
 POLYGON_RPC_URL Polygon RPC endpoint
+
 FEE_RECIPIENT treasury/fee recipient wallet
+
 INITIAL_FEE_BPS initial fee in basis points (e.g. 100 = 1%)
 
 ### 9. Contact & Links
@@ -171,4 +174,5 @@ GitHub (this repo):
 https://github.com/darmansah-zetnov/ovydra-token
 
 Ecosystem: Zetnov/Ovydra Protocol
+
 Email (temporary official contact): zetnovtechnologies@gmail.com
